@@ -1,0 +1,15 @@
+body{
+  background-color: #e9e9e9;
+}
+
+body #parrafos #imagen{
+  text-align: center;
+}
+
+body #parrafos img{
+  width: 40%;
+}
+
+body #parrafos #parrafo1{color: red;}
+.clase1{color: green;}
+.redes{text-decoration: none;}
